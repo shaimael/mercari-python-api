@@ -2,4 +2,4 @@ mailthon
 requests
 beautifulsoup4
 lxml
-wget
+wget  
